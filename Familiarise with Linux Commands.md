@@ -9,7 +9,7 @@ echo -e "Hi Everyone..\nWe are starting Shell Scripting"
 ```
 
 #### 2. Read and Display Name
-
+ 
 ```bash
 echo "Enter your name:"
 read name
