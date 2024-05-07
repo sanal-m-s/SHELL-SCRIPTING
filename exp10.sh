@@ -1,6 +1,6 @@
 function find_sum(){
 sum=$((num1+num2)) 
-echo "Sum is $sum"
+echo "Sum is $sum" 
 }
 function find_difference(){
 diff=$((num1-num2))
