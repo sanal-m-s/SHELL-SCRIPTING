@@ -2,7 +2,7 @@
 
 ## Familiarise with Linux Commands 
 
-#### 1. Display a Message 
+#### 1. Display a Message
  
 ```bash
 echo -e "Hi Everyone..\nWe are starting Shell Scripting"
