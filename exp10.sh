@@ -1,5 +1,5 @@
 function find_sum(){
-sum=$((num1+num2)) 
+sum=$((num1+num2))
 echo "Sum is $sum" 
 }
 function find_difference(){
